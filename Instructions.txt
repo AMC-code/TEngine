@@ -1,0 +1,32 @@
+Presented by tivect.com
+
+NOTE: Must have java 8 or later installed on this device
+
+Open the terminal and cd into the directory containing the jar file
+run: java -jar "FILE_NAME".jar
+
+Inside of the engine folder open the vehicle folder
+Insert any vehicle files created from the vehicle panel website
+
+https://tivect.com/vehicleBuilder/vehiclePanel.html
+
+(TEngine Controls)
+
+(General Controls)
+(r) sets respawn point
+(.) respawn
+(`) open/close menu 
+
+(Player Controls)
+(w) speed up
+(s) speed down
+(a) movement left
+(d) movement right
+(spaceBar) jump
+
+(Vehicle Controls)
+(w) movement up
+(s) movement down
+(a) movement left
+(d) movement right
+(c) cruise control
